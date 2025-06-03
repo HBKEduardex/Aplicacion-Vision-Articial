@@ -78,6 +78,13 @@ Se clasifica automáticamente y se pasa a la pantalla de preguntas.
 El usuario intenta adivinar el componente mostrado.
 
 Se muestra el resultado final, indicando si acertó o no, junto a una imagen de referencia.
+📋 Requirements
+numpy: 1.26.4
+opencv-python: 4.11.0
+tensorflow: 2.10.0
+keras-tuner: 1.4.7
+scikit-learn: 1.6.1
+matplotlib: 3.10.3
 
 📱 Compatibilidad
 Funciona en dispositivos Android con API 21 (Android 5.0) en adelante.
