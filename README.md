@@ -64,8 +64,9 @@ app/
 
 ## 🔒 Permisos necesarios
 
---xml
+```xml
 <uses-permission android:name="android.permission.CAMERA" />
+```
 
 📸 Cómo funciona
 El usuario inicia la app y presiona "Detectar".
