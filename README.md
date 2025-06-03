@@ -26,22 +26,33 @@ Se utilizan tres modelos de **TensorFlow Lite**, incluidos en la carpeta `assets
 
 app/
 ├── src/
-│ └── main/
-│ ├── java/com/example/componentes/
-│ │ ├── MainActivity.kt
-│ │ ├── Preguntados.kt
-│ │ └── ResultadoActivity.kt
-│ ├── res/
-│ │ ├── layout/
-│ │ │ ├── activity_main.xml
-│ │ │ ├── activity_preguntados.xml
-│ │ │ └── activity_resultado.xml
-│ │ ├── drawable/ (imágenes de referencia)
-│ │ └── values/strings.xml
-│ └── assets/
-│ ├── first.tflite
-│ ├── micro.tflite
-│ └── componentes.tflite
+│   └── main/
+│       ├── java/com/example/componentes/
+│       │   ├── MainActivity.kt
+│       │   ├── Preguntados.kt
+│       │   └── ResultadoActivity.kt
+│       ├── res/
+│       │   ├── layout/
+│       │   │   ├── activity_main.xml
+│       │   │   ├── activity_preguntados.xml
+│       │   │   └── activity_resultado.xml
+│       │   ├── drawable/
+│       │   │   ├── arduino.jpeg
+│       │   │   ├── cap.jpg
+│       │   │   ├── esp32.jpeg
+│       │   │   ├── motor.jpeg
+│       │   │   ├── raspberry.jpeg
+│       │   │   ├── res.jpg
+│       │   │   ├── stm32.jpeg
+│       │   │   ├── tiva.jpeg
+│       │   │   └── trans.jpg
+│       │   └── values/
+│       │       └── strings.xml
+│       └── assets/
+│           ├── first.tflite
+│           ├── micro.tflite
+│           └── componentes.tflite
+
 
 ## 🧩 Dependencias principales
 
