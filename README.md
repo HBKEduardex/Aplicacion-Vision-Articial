@@ -94,7 +94,7 @@ res.jpg, motor.jpeg, cap.jpg, trans.jpg
 👨‍💻 Autores
 Desarrollado por:
 Adrián Eduardo Vargas LLanquipacha 
-Israel Silva Bernal
-Belén Medina
-Hector Fernández
+, Israel Silva Bernal
+, Belén Medina
+, Hector Fernández
 Proyecto académico para la identificación de componentes electrónicos mediante visión por computadora y redes neuronales.
