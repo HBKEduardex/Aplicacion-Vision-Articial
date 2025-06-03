@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <string name="btn_detectar">Detectar</string>
+    <string name="resultText">Esperando resultado...</string>
+    <string name="capture_error">Error al capturar imagen</string>
+    <string name="permission_denied">Permiso de cámara denegado</string>
+    <string name="result_detected">Detectado: %1$s</string>
+    <string name="unknown_label">Desconocido</string>
+    <string name="resistencia">Resistencia</string>
+    <string name="motor">Motor</string>
+    <string name="transistor">Transistor</string>
+    <string name="capacitor">Capacitor</string>
+    <string name="arduino">Arduino</string>
+    <string name="tiva">Tiva</string>
+    <string name="raspberry">Raspberry</string>
+    <string name="stm32">STM32</string>
+    <string name="esp32">ESP32</string>
+    <string name="pregunta">¿Qué componente crees que es?</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="Aviso">Aviso: Puede que el modelo se equivoque y si la imagen de referencia no coincide vuelva a detectar</string>
+    <string name="volver">Volver a Detectar</string>
+    <string name="background">Fondo</string> <!-- Para contentDescription del fondo -->
+    <string name="answer">answer</string> <!-- Para contentDescription del fondo -->
+
+</resources>
