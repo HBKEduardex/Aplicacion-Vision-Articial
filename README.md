@@ -22,8 +22,9 @@ Se utilizan tres modelos de **TensorFlow Lite**, incluidos en la carpeta `assets
 | `micro.tflite`     | Multiclase              | `Arduino`, `ESP32`, `STM32`, `Tiva`, `Raspberry` |
 | `componentes.tflite` | Multiclase            | `Resistor`, `Motor`, `Capacitor`, `Transistor` |
 
-## 🗂️ Estructura del proyecto
+### 📁 Estructura del proyecto
 
+```plaintext
 app/
 ├── src/
 │   └── main/
@@ -53,6 +54,7 @@ app/
 │           ├── micro.tflite
 │           └── componentes.tflite
 
+```
 
 ## 🧩 Dependencias principales
 
