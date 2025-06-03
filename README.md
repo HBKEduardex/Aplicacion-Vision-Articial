@@ -91,6 +91,10 @@ Las imágenes de referencia deben estar en res/drawable/ con los siguientes nomb
 arduino.jpeg, tiva.jpeg, raspberry.jpeg, stm32.jpeg, esp32.jpeg
 res.jpg, motor.jpeg, cap.jpg, trans.jpg
 
-👨‍💻 Autor
-Desarrollado por Adrián Eduardo Vargas Llanquipacha
+👨‍💻 Autores
+Desarrollado por:
+Adrián Eduardo Vargas LLanquipacha 
+Israel Silva Bernal
+Belén Medina
+Hector Fernández
 Proyecto académico para la identificación de componentes electrónicos mediante visión por computadora y redes neuronales.
